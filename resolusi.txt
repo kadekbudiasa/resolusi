@@ -1,3 +1,4 @@
 RESOLUSI
 - Konsisten belajar GIT
 - Konsisten belajar CodeIgniter
+- Mulai menggarap Tugas Akhir
