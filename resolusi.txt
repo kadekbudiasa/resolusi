@@ -1,0 +1,3 @@
+RESOLUSI
+- Konsisten belajar GIT
+- Konsisten belajar CodeIgniter
